@@ -1,0 +1,1 @@
+gcloud functions deploy alertEmailFun  --trigger-topic data-streaming-topic --runtime nodejs10 --env-vars-file .env.yaml

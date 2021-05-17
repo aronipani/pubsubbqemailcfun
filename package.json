@@ -1,0 +1,10 @@
+{
+  "name": "sample-pubsub",
+  "version": "0.0.1",
+  "dependencies": {
+    "@google-cloud/bigquery": "^2.1.0",
+    "@google-cloud/functions-framework": "^1.7.1",
+    "@google-cloud/pubsub": "^0.18.0",
+    "@sendgrid/mail": "^7.2.6"
+  }
+}
